@@ -1,4 +1,4 @@
-package com.bitcademy.mysite.controller;
+package com.bitacademy.mysite.controller;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
